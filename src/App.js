@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import styled from "styled-components";
 
 const HomeContainer = styled.div`
-	padding: 50px;
+	padding: 50px 75px;
 `;
 
 const HomeHeader = styled.h2`
